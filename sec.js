@@ -48,8 +48,8 @@
 // }
 
 //1
-// let x = 4897970;
-// let value = x.toExponential(9);
+// let x = 2;
+// let value = x.toExponential(0);
 // console.log(value);
 
 //2
@@ -68,4 +68,22 @@
 // }
 
 // findsamllInt([12, 49, 60]);
+
+// function countPositivesSumNegatives(input) {
+//   let count = 0;
+//   let sum = 0;
+//   for (let i = 0; i < input.length; i++) {
+//     if (input[i] >= 0) {
+//       count += 1;
+//     } else if (input[i] < 0) {
+//       sum += input[i];
+//     }
+    
+//   }
+//   console.log(sum);
+//   console.log(count);
+// }
+// countPositivesSumNegatives([1, 2, 3, 4, 5, 6, -45, -70]);
+
+
 
