@@ -9,13 +9,13 @@
 // let c = new Date();
 // console.log(c);
 
-let n1 = "molnapur, mohammadpur, siwan , bihar india - 841226";
-const age = 12;
-console.log(n1);
-console.log(n1);
-console.log(n1);
-console.log(n1);
-console.log(n1);
+// let n1 = "molnapur, mohammadpur, siwan , bihar india - 841226";
+// const age = 12;
+// console.log(n1);
+// console.log(n1);
+// console.log(n1);
+// console.log(n1);
+// console.log(n1);
 
 // math sign - operator
 // + , -
@@ -46,3 +46,9 @@ console.log(n1);
 //   b: 20
 // };
 // console.log(typeof name.a);
+
+
+
+
+
+
